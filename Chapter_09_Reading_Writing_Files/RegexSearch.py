@@ -1,4 +1,19 @@
 # Open all .txt files in a folder and search for any line that matches a user-supplied regular expression.
+"""
+This script searches for lines matching a user-supplied regular expression in all .txt files within the current working directory.
+Modules:
+    re: Provides support for regular expressions.
+    os: Provides a way of using operating system dependent functionality.
+    pathlib: Provides an object-oriented interface to the filesystem.
+Functions:
+    None
+Usage:
+    Run the script and enter a regular expression when prompted. The script will search through all .txt files in the current working directory and print lines that match the regular expression.
+Example:
+    Enter a regular expression:
+    \d{3}-\d{3}-\d{4}
+    This will search for lines containing phone numbers in the format 123-456-7890.
+"""
 # The results should be printed to the screen.
 
 import re
