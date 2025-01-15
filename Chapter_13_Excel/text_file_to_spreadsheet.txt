@@ -1,0 +1,9 @@
+2025-01-15 09:30:56,124 - ERROR - No text files provided. Exiting program.
+2025-01-15 09:35:37,902 - ERROR - No text files provided. Exiting program.
+2025-01-15 09:37:52,649 - ERROR - No text files provided. Exiting program.
+2025-01-15 09:40:12,976 - ERROR - Error reading file1.txt: [Errno 2] No such file or directory: 'file1.txt'
+2025-01-15 09:40:54,129 - INFO - Read test_01.txt successfully.
+2025-01-15 09:40:54,129 - INFO - Read test_02.txt successfully.
+2025-01-15 09:40:54,131 - INFO - Created a new spreadsheet.
+2025-01-15 09:40:54,132 - INFO - Written text lines to the spreadsheet.
+2025-01-15 09:40:54,136 - DEBUG - Spreadsheet saved as text_files_1.xlsx

@@ -1,0 +1,2 @@
+Excel is a popular and powerful spreadsheet application.
+The openpyxl module allows your Python programs to read and modify Excel spreadsheet files.
