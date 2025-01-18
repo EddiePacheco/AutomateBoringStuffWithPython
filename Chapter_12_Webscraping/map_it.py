@@ -22,9 +22,4 @@ else:
     address = pyperclip.paste()
 
 webbrowser.open('https://www.google.com/maps/place/' + address)
-
-# Execute the program on the command line:
-# python3 map_it.py [address]
-
-# Example:
-# python3 map_it.py 1600 Amphitheatre Parkway, Mountain View, CA
+#webbrowser.open('https://www.google.com/maps/place/' + '870 Valencia St, San Francisco, CA 94110')
